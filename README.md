@@ -3,7 +3,8 @@
 🌱 I’m currently learning ... <br>
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  <img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"><br>
 
-Skills - 
+<h1 style=align-item:center;>Skills</h1>
+ - 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/> 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg"/>  
