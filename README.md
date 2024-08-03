@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ... <br>
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  <img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-Skills - <img height="50" src="https://cdn.worldvectorlogo.com/logo/html-1.svg"/>
+Skills - <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
 
 
 <!--
