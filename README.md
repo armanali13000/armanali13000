@@ -2,7 +2,17 @@
 
 🌱 I’m currently learning ... <br>
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  <img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"><br>
-Skills - HTML<img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> CSS<img height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/> <img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
+
+Skills - 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/hibernate-1.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/> 
 
 
 <!--
