@@ -6,8 +6,7 @@
 Skills - 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/> 
-<img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg"/> 
-<img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/> 
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg"/>  
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/> 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg"/> 
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/> 
