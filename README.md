@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 🌱 I’m currently learning ... <br>
-<img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  <img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"><br>
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"><br>
 
-<h1>Skills</h1><br>
+<h1>Skills</h1>
 <h4>
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> 
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/> 
