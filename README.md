@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ... <br>
+
 <h4>
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"><br>
@@ -17,6 +17,8 @@
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/> 
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/hibernate-1.svg"/> 
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/> 
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>  
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"><br>
   
 </h4>
 
