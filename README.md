@@ -4,7 +4,7 @@
 
 <h1>Skills</h1>
 <h4>
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> 
+<img height="5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/> 
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/> 
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg"/>  
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/> 
